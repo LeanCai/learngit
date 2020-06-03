@@ -1,0 +1,4 @@
+this is file1.txt.
+hello !
+create a new branch is quick and simple. 
+merge branch by no-ff
